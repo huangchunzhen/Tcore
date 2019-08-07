@@ -1,4 +1,4 @@
-# 清华大学SUMMER SCHOOL任务：Rcore
+# 清华大学Summer School任务：Rcore
 Rcore的开发主要涉及：
 # Code
 code可以在https://github.com/huangchunzhen/Rcore_Summer 进行查看 
