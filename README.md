@@ -12,7 +12,7 @@ code可以在https://github.com/huangchunzhen/Rcore_Summer 进行查看
 
 # 配置环境
 https://pan.baidu.com/s/1Faxk-oZ2bbcmrk0_nThmrQ  提取码：hfvz
-<br /> 自己配置的虚拟硬盘（有需要的可以自己下载）
+<br /> 感谢@李可然同学 提供的虚拟硬盘！
 
 
 
