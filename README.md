@@ -2,7 +2,6 @@
 Rcore的开发主要涉及：
 # Code
 code可以在https://github.com/huangchunzhen/Rcore_Summer 进行查看 
-<br /> code的开发过程将分享至知乎专栏
 
 # Risc-v
 主要流水账在https://github.com/huangchunzhen/Rcore_Summer/issues/1 中收集并整理
