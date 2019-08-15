@@ -5,14 +5,14 @@ code可以在以下进行查看 ：</br>https://github.com/huangchunzhen/Rcore_S
 </br>开发过程中所遇到和解决的Rust问题统一在以下中进行整理：</br>https://github.com/huangchunzhen/Rcore_Summer/issues/2
 </br>提供的参考资料（书+code）之后都会在issue里进行整理
 # 参考资料：
-</br>《计算机体系结构:量化研究方法(第5版)》(正在和李可然同学艰难的在啃)
-</br>《深入理解Linux内核(第4版)》（英文版）
-</br>《深入理解Linux内核(第3版)》（中文版）
+</br> •《计算机体系结构:量化研究方法(第5版)》(正在和李可然同学艰难的在啃)
+</br> •《深入理解Linux内核(第4版)》（英文版）
+</br> https://doc.lagout.org/operating%20system%20/linux/Understanding%20Linux%20Kernel.pdf 
+</br> •《深入理解Linux内核(第3版)》（中文版）
 </br> https://pan.baidu.com/s/1pfWYnIfB6K0HoxYyBIahsw  提取码：mc8l
-</br>https://doc.lagout.org/operating%20system%20/linux/Understanding%20Linux%20Kernel.pdf 
-</br>Github:
-</br>https://github.com/chyyuu/ucore_os_lab
-</br>https://github.com/LearningOS/rcore_step_by_step
+</br> • Github:
+</br> https://github.com/chyyuu/ucore_os_lab
+</br> https://github.com/LearningOS/rcore_step_by_step
 # 配置环境
 https://pan.baidu.com/s/1Faxk-oZ2bbcmrk0_nThmrQ  提取码：hfvz
 <br /> 感谢@李可然同学 提供的虚拟硬盘！
