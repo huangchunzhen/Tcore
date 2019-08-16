@@ -1,4 +1,4 @@
-# 清华大学Summer School任务：Rcore
+# 清华大学Summer School衍生：Tcore
 # 相关资料
 • code可以在以下进行查看 ：</br>https://github.com/huangchunzhen/Rcore_Summer 
 </br>• Risc-v主要流水账在以下中收集并整理：</br>https://github.com/huangchunzhen/Rcore_Summer/issues/1
