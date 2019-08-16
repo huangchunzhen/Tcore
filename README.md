@@ -2,7 +2,7 @@
 # 相关资料
 • code可以在以下进行查看 ：</br>https://github.com/huangchunzhen/Rcore_Summer 
 </br>• Risc-v主要流水账在以下中收集并整理：</br>https://github.com/huangchunzhen/Rcore_Summer/issues/1
-</br>• 开发过程中所遇到和解决的Rust问题统一在以下中进行整理：</br>https://github.com/huangchunzhen/Rcore_Summer/issues/2
+</br>• 开发过程中所遇到和解决的Rust问题统一在以下中进行整理：</br>https://github.com/huangchunzhen/Tcore/issues/3
 </br>• 提供的参考资料（书+code）之后都会在issue里进行整理
 # 参考资料：
 </br> •《计算机体系结构:量化研究方法(第5版)》(正在和李可然同学艰难的在啃)
