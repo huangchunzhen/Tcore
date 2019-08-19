@@ -7,7 +7,7 @@
 </br>• 李可然的Github链接 https://github.com/Mooselee/CPU-in-RISC
 # 参考资料：
 </br> •《计算机体系结构:量化研究方法(第5版)》(正在和李可然同学艰难的在啃)
-</br> •《深入理解Linux内核(第4版)》（英文版）
+</br> •《深入理解Linux内核(第3版)》（英文版）
 </br> https://doc.lagout.org/operating%20system%20/linux/Understanding%20Linux%20Kernel.pdf 
 </br> •《深入理解Linux内核(第3版)》（中文版）
 </br> https://pan.baidu.com/s/1pfWYnIfB6K0HoxYyBIahsw  提取码：mc8l
