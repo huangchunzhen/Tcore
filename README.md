@@ -1,7 +1,6 @@
 # 清华大学Summer School衍生：Tcore
 # 相关资料
-• code可以在以下进行查看 ：</br>https://github.com/huangchunzhen/Rcore_Summer 
-</br>• Risc-v主要流水账在以下中收集并整理：</br>https://github.com/huangchunzhen/Rcore_Summer/issues/1
+• Risc-v主要流水账在以下中收集并整理：</br>https://github.com/huangchunzhen/Rcore_Summer/issues/1
 </br>• 开发过程中所遇到和解决的Rust问题统一在以下中进行整理：</br>https://github.com/huangchunzhen/Tcore/issues/3
 </br>• 提供的参考资料（书+code）之后都会在issue里进行整理
 </br>• 李可然的Github链接 https://github.com/Mooselee/CPU-in-RISC
