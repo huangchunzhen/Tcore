@@ -5,6 +5,7 @@
 </br>• 提供的参考资料（书+code）之后都会在issue里进行整理
 </br>• 李可然的Github链接 https://github.com/Mooselee/CPU-in-RISC
 # 参考资料：
+</br> • 《linux内核0.11完全注释》（陈渝老师推荐）
 </br> •《计算机体系结构:量化研究方法(第5版)》(正在和李可然同学艰难的在啃)
 </br> •《深入理解Linux内核(第3版)》（英文版）
 </br> https://doc.lagout.org/operating%20system%20/linux/Understanding%20Linux%20Kernel.pdf 
